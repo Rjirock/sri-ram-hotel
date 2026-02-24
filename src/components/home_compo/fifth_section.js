@@ -69,7 +69,7 @@ export default function LocationSection() {
                 return (
                   <div
                     key={index}
-                    className="bg-white p-5 rounded-xl border border-gray-100
+                    className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm 
                     hover:shadow-md transition-all duration-300"
                   >
                     <div className="w-10 h-10 flex items-center justify-center rounded-lg
